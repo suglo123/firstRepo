@@ -13,4 +13,5 @@ this is my first gist code
 
 ## Collab Example
 
-this is my [notebook] (https://colab.research.google.com/drive/1sGmRMxLyiu1XFlFRb8dH7zJGDc2zlSeg#scrollTo=wig0Sf2a_CvB)
+this is my [notebook] (https://github.com/suglo123/firstRepo/blob/main/Training_Markdown.ipynb)
+
