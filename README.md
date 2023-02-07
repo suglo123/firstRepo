@@ -13,5 +13,5 @@ this is my first gist code
 
 ## Collab Example
 
-this is my [notebook] (https://github.com/suglo123/firstRepo/blob/main/Training_Markdown.ipynb)
+this is my [notebook](https://github.com/suglo123/firstRepo/blob/main/Training_Markdown.ipynb)
 
